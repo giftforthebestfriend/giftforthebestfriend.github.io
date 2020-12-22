@@ -1,6 +1,6 @@
 body
 {
-    background-image: url(img/fun2.gif);
+    background-image: url(fun2.gif);
     background-repeat: no-repeat;
     background-size: 100vw;
 }
@@ -14,7 +14,7 @@ body
 #div1
 {
     position: absolute;
-    background-image: url(img/srednevekovie.png);
+    background-image: url(srednevekovie.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 49.5vw;
