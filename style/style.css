@@ -11,7 +11,7 @@ body
     left: 72.5%;
     top: 4.5%;
 }
-#div1
+#div2
 {
     position: absolute;
     background-image: url(img/srednevekovie.png);
@@ -141,4 +141,9 @@ body
 .nextTransparent 
 {
     opacity: 1;
+}
+
+#div1
+{
+    display: none;
 }
