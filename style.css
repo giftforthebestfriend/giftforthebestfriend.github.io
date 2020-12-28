@@ -83,6 +83,7 @@ body
 
 #title
 {
+    position: relative;
     font-family: 'AuntJudyBetter-Regular','Courier New', Courier, monospace;
     text-align: center;
     font-size: 5vw;
